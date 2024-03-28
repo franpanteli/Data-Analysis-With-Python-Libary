@@ -1,7 +1,6 @@
 # Data-Analysis-With-Python-Libary
 ### Repository Overview 
-
-This repository contains a library of my notes on the first half of the content for the "Machine Learning with Python" certification course by freeCodeCamp, which I created as part of self-studying Python and am sharing here for use as a reference resource. The first half of the content in this course covers TensorFlow with Python. This is an extensive library of my notes on this section of the course, covering the fundamental aspects of TensorFlow with Python. This includes essential topics on machine learning, neural networks, natural language processing and reinforcement learning using this (the TensorFlow) framework. This libary consists of 32 PDF files below, each corresponding to a specific video lecture in this section of the course. 
+This repository contains a library of my notes on the first half of the content for the "Data Analysis with Python" certification course by freeCodeCamp, which I created as part of self-studying Python and am sharing here for use as a reference resource. This is an extensive library of my notes on the first this section of this course, covering the fundamental aspects of TensorFlow with Python. This includes essential topics on data analysis (1-3), Jupyter notebooks (4-6), Numpy (7-12), Pandas (13-17), data cleaning (18-21), reading and processing data with Jupyter notebooks (22-24) and Python (26-28). This library consists of 28 PDF files below, each corresponding to a specific video lecture in this section of the course. 
 
 ### Course Details For "Machine Learning with Python"
 - **Course URL:** [Machine Learning with Python Certification](https://www.freecodecamp.org/learn/machine-learning-with-python/#tensorflow)
