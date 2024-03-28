@@ -9,7 +9,7 @@ This repository contains a library of my notes on the first half of the content 
 - **Framework:** TensorFlow
 
 ### Contents of the Data-Analysis-With-Python-Numpy-Library Folder
-1. [Introduction to Data Analysis](https://github.com/franpanteli/Data-Analysis-With-Python-Libary/blob/main/Data-Analysis-With-Python-Numpy-Libary/1%20Introduction%20to%20Data%20Analysis)
+1. [Introduction to Data Analysis](https://github.com/franpanteli/Data-Analysis-With-Python-Libary/blob/main/Data-Analysis-With-Python-Numpy-Libary/1%20Introduction%20to%20Data%20Analysis.pdf)
 2. [Data Analysis Example A](https://github.com/franpanteli/Data-Analysis-With-Python-Libary/blob/main/Data-Analysis-With-Python-Numpy-Libary/2%20Data%20Analysis%20Example%20A)
 3. [Data Analysis Example B](https://github.com/franpanteli/Data-Analysis-With-Python-Libary/blob/main/Data-Analysis-With-Python-Numpy-Libary/3%20Data%20Analysis%20Example%20B)
 4. [How to use Jupyter Notebooks Intro](https://github.com/franpanteli/Data-Analysis-With-Python-Libary/blob/main/Data-Analysis-With-Python-Numpy-Libary/4%20How%20to%20use%20Jupyter%20Notebooks%20Intro)
