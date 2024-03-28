@@ -2,9 +2,9 @@
 ### Repository Overview 
 This repository contains a library of my notes on the first half of the content for the "Data Analysis with Python" certification course by freeCodeCamp, which I created as part of self-studying Python and am sharing here for use as a reference resource. This is an extensive library of my notes on the first this section of this course, covering the fundamental aspects of TensorFlow with Python. This includes essential topics on data analysis (1-3), Jupyter notebooks (4-6), Numpy (7-12), Pandas (13-17), data cleaning (18-21), reading and processing data with Jupyter notebooks (22-24) and Python (26-28). This library consists of 28 PDF files below, each corresponding to a specific video lecture in this section of the course. 
 
-### Course Details For "Machine Learning with Python"
-- **Course URL:** [Machine Learning with Python Certification](https://www.freecodecamp.org/learn/machine-learning-with-python/#tensorflow)
-- **Instructor:** Tim Ruscica (Tech With Tim)
+### Course Details For "Data Analysis with Python"
+- **Course URL:** [Data Analysis with Python Certification](https://www.freecodecamp.org/learn/data-analysis-with-python)
+- **Instructor:** Santiago Basulto
 - **Framework:** TensorFlow
 
 ### Contents of the Data-Analysis-With-Python-Numpy-Library Folder
