@@ -16,7 +16,7 @@ This repository contains a library of my notes on the first half of the content 
 5. [Jupyter Notebooks Cells](https://github.com/franpanteli/Data-Analysis-With-Python-Libary/blob/main/Data-Analysis-With-Python-Numpy-Libary/5%20Jupyter%20Notebooks%20Cells.pdf)
 6. [Jupyter Notebooks Importing and Exporting Data](https://github.com/franpanteli/Data-Analysis-With-Python-Libary/blob/main/Data-Analysis-With-Python-Numpy-Libary/6%20Jupyter%20Notebooks%20Importing%20and%20Exporting%20Data.pdf)
 7. [Numpy Introduction A](https://github.com/franpanteli/Data-Analysis-With-Python-Libary/blob/main/Data-Analysis-With-Python-Numpy-Libary/7%20Numpy%20Introduction%20A.pdf)
-8. [Numpy Introduction B](https://github.com/franpanteli/Data-Analysis-With-Python-Libary/blob/main/Data-Analysis-With-Python-Numpy-Libary/8%20Numpy%20Introduction%20B](https://github.com/franpanteli/Data-Analysis-With-Python-Libary/blob/main/Data-Analysis-With-Python-Numpy-Libary/8%20Numpy%20Introduction%20B.pdf)
+8. [Numpy Introduction B](https://github.com/franpanteli/Data-Analysis-With-Python-Libary/blob/main/Data-Analysis-With-Python-Numpy-Libary/8%20Numpy%20Introduction%20B.pdf)
 9. [Numpy Arrays](https://github.com/franpanteli/Data-Analysis-With-Python-Libary/blob/main/Data-Analysis-With-Python-Numpy-Libary/9%20Numpy%20Arrays.pdf)
 10. [Numpy Operations](https://github.com/franpanteli/Data-Analysis-With-Python-Libary/blob/main/Data-Analysis-With-Python-Numpy-Libary/10%20Numpy%20Operations.pdf)
 11. [Numpy Boolean Arrays](https://github.com/franpanteli/Data-Analysis-With-Python-Libary/blob/main/Data-Analysis-With-Python-Numpy-Libary/11%20Numpy%20Boolean%20Arrays.pdf)
