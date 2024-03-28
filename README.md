@@ -29,7 +29,7 @@ This repository contains a library of my notes on the first half of the content 
 18. [Data Cleaning Introduction](https://github.com/franpanteli/Data-Analysis-With-Python-Libary/blob/main/Data-Analysis-With-Python-Numpy-Libary/18%20Data%20Cleaning%20Introduction.pdf)
 19. [Data Cleaning with DataFrames](https://github.com/franpanteli/Data-Analysis-With-Python-Libary/blob/main/Data-Analysis-With-Python-Numpy-Libary/19%20Data%20Cleaning%20with%20DataFrames.pdf)
 20. [Data Cleaning Duplicates](https://github.com/franpanteli/Data-Analysis-With-Python-Libary/blob/main/Data-Analysis-With-Python-Numpy-Libary/20%20Data%20Cleaning%20Duplicates.pdf)
-21. [Data Cleaning and Visualizations](https://github.com/franpanteli/Data-Analysis-With-Python-Libary/blob/main/Data-Analysis-With-Python-Numpy-Libary/21%20Data%20Cleaning%20and%20Visualizations.pdf)
+21. [Data Cleaning and Visualisations](https://github.com/franpanteli/Data-Analysis-With-Python-Libary/blob/main/Data-Analysis-With-Python-Numpy-Libary/21%20Data%20Cleaning%20and%20Visualisations.pdf)
 22. [Reading Data Introduction](https://github.com/franpanteli/Data-Analysis-With-Python-Libary/blob/main/Data-Analysis-With-Python-Numpy-Libary/22%20Reading%20Data%20Introduction.pdf)
 23. [Reading Data CSV and TXT](https://github.com/franpanteli/Data-Analysis-With-Python-Libary/blob/main/Data-Analysis-With-Python-Numpy-Libary/23%20Reading%20Data%20CSV%20and%20TXT.pdf)
 24. [Reading Data from Databases](https://github.com/franpanteli/Data-Analysis-With-Python-Libary/blob/main/Data-Analysis-With-Python-Numpy-Libary/24%20Reading%20Data%20from%20Databases.pdf)
