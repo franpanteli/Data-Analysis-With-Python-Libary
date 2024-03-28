@@ -5,7 +5,7 @@ This repository contains a library of my notes on the first half of the content 
 ### Course Details For "Data Analysis with Python"
 - **Course URL:** [Data Analysis with Python Certification](https://www.freecodecamp.org/learn/data-analysis-with-python)
 - **Instructor:** Santiago Basulto
-- **Framework:** TensorFlow
+- **Languages / libraries:** Python, Numpy
 
 ### Contents of the Data-Analysis-With-Python-Numpy-Library Folder
 1. [Introduction to Data Analysis](https://github.com/franpanteli/Data-Analysis-With-Python-Libary/blob/main/Data-Analysis-With-Python-Numpy-Libary/1%20Introduction%20to%20Data%20Analysis.pdf)
